@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Azure Pipelines DeleteFiles Task",
   "main": "deletefiles.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/microsoft/vsts-tasks.git"
@@ -17,6 +14,6 @@
   },
   "homepage": "https://github.com/microsoft/vsts-tasks#readme",
   "dependencies": {
-    "vsts-task-lib": "^0.9.20"
+    "vsts-task-lib": "2.0.1-preview"
   }
 }
